@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gladstone28/rose-3-colum-peview)
-- Live Site URL: [Add live site URL here](https://gladstone28.github.io/rose-3-colum-peview/)
+- Solution URL: [See my solution URL here](https://github.com/gladstone28/rose-3-colum-peview)
+- Live Site URL: [See my live site URL here](https://gladstone28.github.io/rose-3-colum-peview/)
 
 ## My process
 
@@ -51,9 +51,8 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-The following markup snippets provided me with very useful knowledg for the future, see below:
+The following markup snippets provided me with very useful knowledge for the future, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -72,7 +71,7 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-I am working on mastering Figma whihc will enrich my UI/UX expertise.
+I am working on mastering Figma which will enrich my UI/UX expertise.
 
 
 ### Useful resources
